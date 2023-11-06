@@ -10,5 +10,5 @@ Only hiccups:
 - change filename extension from .rmd to .qmd
 - the yaml header is slightly different for quarto documents
 - quarto does not like the LaTeX package `titlesec` and throws an error which can be addressed in several ways, see [here](https://github.com/quarto-dev/quarto-cli/issues/6598).
-- quarto by default compiles with xelatex, but can be changed to pdflatex (or one adjusts margins to exactly fit table)
+- quarto by default compiles with xelatex, but that can be changed to pdflatex (or one adjusts margins to exactly fit the table structure)
 - install R and the scholar package (takes a few min for a non-R user)
