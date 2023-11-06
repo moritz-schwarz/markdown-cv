@@ -4,7 +4,7 @@ Tried to adjust [Simon Heß'](https://github.com/simonheb) nice R Markdown cv fo
 
 PDF: [Original R Markdown](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf), [Quarto](quarto/cv.pdf)
 
-Source: [Original R Markdown](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf) [Quarto](quarto/cv.qmd)
+Source: [Original R Markdown](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf), [Quarto](quarto/cv.qmd)
 
 Only hiccups:
 - change filename extension from .rmd to .qmd
