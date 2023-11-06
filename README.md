@@ -9,5 +9,5 @@ source:  [CV-SH.qmd](CV-SH.qmd)
 
 Only hiccups:
 - the yaml header is slightly different for quarto documents
-- quarto does not like the LaTeX package `titlesec` and throws an error which can be addressed in several ways, see [here]([url](https://github.com/quarto-dev/quarto-cli/issues/6598)https://github.com/quarto-dev/quarto-cli/issues/6598).
+- quarto does not like the LaTeX package `titlesec` and throws an error which can be addressed in several ways, see [here](https://github.com/quarto-dev/quarto-cli/issues/6598).
 - install R and the scholar package (takes a few min for non-R user)
