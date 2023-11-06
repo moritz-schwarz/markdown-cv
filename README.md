@@ -1,4 +1,4 @@
-# markdown-cv with [quarto]([url](https://quarto.org/))
+# markdown-cv with [quarto](https://quarto.org/)
 
 Tried to adjust Simon Heß' nice R Markdown cv for non-R users who compile with quarto. Under the hood this is all LaTeX, Pandoc, and a tiny bit of R, so this should be doable. Perhaps, this is useful for someone else adjusting an R Markdown document to a quarto environment.
 
