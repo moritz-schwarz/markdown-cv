@@ -1,10 +1,8 @@
 # markdown-cv
 
-got fed up with TeX compilation errors when working with standard templates for academic CVs. here's a minimal and easily configurable CV that uses markdown.
+Tried to adjust Simon Heß' nice markdown-cv for non-R users who compile with quarto. Under the hood this is all LaTeX, Pandoc, and a tiny bit of R, so this should be doable. 
 
 result: [CV-SH.pdf](CV-SH.pdf)
 
-source:  [CV-SH.Rmd](CV-SH.Rmd)
+source:  [CV-SH.qmd](CV-SH.qmd)
 ![](CV-SH.pdf)
-
-the source also contains a "references" section that is commented out in my current version.
