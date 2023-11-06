@@ -2,13 +2,9 @@
 
 Tried to adjust [Simon Heß'](https://github.com/simonheb) nice R Markdown cv for non-R users who compile with quarto. At the end of the day this is all "just" LaTeX, Pandoc, and a tiny bit of R under the hood. Perhaps, this is useful for someone else adjusting an R Markdown document to a quarto environment.
 
-Original R Markdown: [CV-SH.pdf](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf) 
+PDF: [Original R Markdown](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf), [Quarto](quarto/cv.pdf)
 
-Quarto: [cv.pdf](quarto/cv.pdf)
-
-Original R Markdown source: [CV-SH.pdf](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf) 
-
-Quarto source: [cv.qmd](quarto/cv.qmd)
+Source: [Original R Markdown](https://github.com/simonheb/markdown-cv/blob/main/CV-SH.pdf) [Quarto](quarto/cv.qmd)
 
 Only hiccups:
 - change filename extension from .rmd to .qmd
